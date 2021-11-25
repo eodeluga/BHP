@@ -1,5 +1,5 @@
 # Introduction 
-**Bitmex Historical Price** (BHP) downloader downloads historical trade data and imports it into a influxDB database
+**Bitmex Historical Price** (BHP) downloader downloads historical trade data and imports it into a influxDB database and saves to local disk
 
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
